@@ -1,7 +1,7 @@
 # 🤖 Agency.ai - Soluções em Chatbots para WhatsApp
 
 <p align="center">
-  <img src="src/assets/capa-inicial-padrao.jpg" alt="Agency.ai Banner" width="100%">
+  <img src="src/assets/capa-incial-padrao.jpg" alt="Agency.ai Banner" width="100%">
 </p>
 
 ### Landing Page moderna para venda de agentes inteligentes e automação.
@@ -16,7 +16,7 @@ Para demonstrar a versatilidade da interface, o projeto conta com suporte total 
 
 <p align="center">
   <b>Versão Dark Mode</b><br>
-  <img src="src/assets/capa-inicial-escuro.jpg" width="80%" alt="Versão Escura">
+  <img src="src/assets/capa-incial-escuro.jpg" width="80%" alt="Versão Escura">
 </p>
 
 <p align="center">
